@@ -1,0 +1,15 @@
+.panda-bg-success{
+    background-color: rgb(122, 168, 255);
+}
+.panda-bg-warning{
+    background-color: rgba(36, 89, 189, 0.562);
+}
+.panda-bg-secondary{
+    background-color: rgb(135, 219, 222);
+}
+.panda-bg-primary{
+    background-color: rgb(11, 155, 212);
+}
+.panda-slider-height{
+    height: 200px;
+}
